@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nafiz Hyder</h1>
+<h1 align="center">Hi 👋, I'm Nafiz</h1>
 <h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafizhyder&label=Profile%20views&color=0e75b6&style=flat" alt="nafizhyder" /> </p>
